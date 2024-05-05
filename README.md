@@ -92,7 +92,7 @@
     Now that you have created the virtual environment, you will need to activate it before you can use it in your project. On a mac, to activate your virtual environment, run the code below:
 
     ```sh
-    source env/bin/activate
+    source venv/bin/activate
     ```
 
 5. Deactivate a Virtual Environment
